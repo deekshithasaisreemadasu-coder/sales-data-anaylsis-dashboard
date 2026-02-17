@@ -79,6 +79,5 @@ An interactive Excel dashboard was built using Pivot Tables, Charts, and Slicers
 ---
 
 ## Author
-
-Sai Madasu
+Deekshitha Madasu
 Aspiring Data Analyst
